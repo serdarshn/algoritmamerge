@@ -1,0 +1,17 @@
+* [16,21,11,8,12,22] Merge
+* [16,21,11,8,12,22]
+* SOL TARAF - GERİYE DOĞRU HİZALAYARAK DÖNÜYOR - ORALARI YAZMADIM
+* [16,21,11]   
+* [16,21] [11]
+* [16] [21]    
+* [11,16,21]
+
+* SAĞ TARAF - GERİYE DOĞRU HİZALAYARAK DÖNÜYOR - ORALARI YAZMADIM
+* [8,12,22]
+* [8,12] [22]
+* [8] [12]
+* [8,12,22]
+
+# SONUÇ
+
+* [8,11,12,16,21,22]
